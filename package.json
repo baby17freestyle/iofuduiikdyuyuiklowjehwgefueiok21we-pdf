@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "helmet": "^8.0.0",
+    "morgan": "^1.10.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "dowonload-new-pdf-file",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [
+    "dld",
+    "fil"
+  ],
+  "author": "buga",
+  "license": "ISC"
+}
